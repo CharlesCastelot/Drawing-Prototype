@@ -1,5 +1,5 @@
 # Drawing-Prototype
-This is the code made for one of my early project made around 2016
+This is the code made for one of my early project made around 2016.
 
 When the mouse clicks on the red square, the user can draw in red on the white section.<br> 
 When the user selects the black square, they can draw in black.<br>
